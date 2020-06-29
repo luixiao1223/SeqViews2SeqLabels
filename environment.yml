@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python=2.7
   - numpy=1.13.3
+  # using pip to intall the following packags.
   #- scipy=0.19.0
   #- matplotlib=2.0.1
   #- tensorflow=1.0.12
